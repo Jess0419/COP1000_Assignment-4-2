@@ -17,6 +17,6 @@ if productivityScore <= 30:
 elif productivityScore > 30 and productivityScore <= 69:
   print("Employee Bonus: $" + str(secondBonus))
 elif productivityScore > 69 and productivityScore <= 199:
-  print("Emloyee Bonus: $" + str(thirdBonus))
+  print("Employee Bonus: $" + str(thirdBonus))
 elif productivityScore > 199:
   print("Employee Bonus: $" + str(maxBonus))
